@@ -1,2 +1,3 @@
-# wordpress-theme
-Our HobbyHomebrew.com Open Source Wordpress Theme
+![HobbyHomebrew.com](https://avatars1.githubusercontent.com/u/49341248)
+# HobbyHomebrew.com
+Our main custom Wordpress site theme.
